@@ -2,9 +2,12 @@
 
 This is an experimental Image Segmentation project for Bladder-Cancer based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
-<a href="https://drive.google.com/file/d/1qxBodGJCC_MuEnusmLLj3f7wdRRwjg1S/view?usp=sharing">
-Bladder-Cancer-ImageMask-Dataset.zip</a>
+<a href="https://drive.google.com/file/d/176ewCOeQA1_lhqjGpykJFhaLdvTRYCn5/view?usp=sharing">
+Bladder-Cancer-ImageMask-Dataset_V2.zip</a> (2024/03/15)
 <br>
+
+<br>
+
 <br>
 Segmentation samples<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/Bladder-Cancer/asset/segmentation_samples.png" width="720" height="auto">
@@ -51,9 +54,11 @@ magnetic resonance image.
 </a>
 </h3>
  If you would like to train this Bladder-Cancer Segmentation model by yourself,
- please download the latest dataset from the google drive 
-<a href="https://drive.google.com/file/d/1qxBodGJCC_MuEnusmLLj3f7wdRRwjg1S/view?usp=sharing">
-Bladder-Cancer-ImageMask-Dataset.zip</a>
+ please download the latest normalized dataset from the google drive 
+<a href="https://drive.google.com/file/d/176ewCOeQA1_lhqjGpykJFhaLdvTRYCn5/view?usp=sharing">
+Bladder-Cancer-ImageMask-Dataset_V2.zip</a> (2024/03/15)
+<br>
+
 <br>
 Please expand the downloaded ImageMaskDataset and place them under <b>./dataset</b> folder to be
 
